@@ -9,14 +9,14 @@
 1. [ここ](https://github.com/bu-kurokky/apps/raw/main/glitchchecker/glitchchecker_v1.zip)からDownloadボタンを押してzipファイルをDLします。
 1. DLしたファイルを解凍します。
 1. 下記のようにChromeのURLに「chrome://extensions」と入力します。
-![notice](img/url.png)
+![notice](img/url.png)  
 1. 拡張機能の画面になったら右上の「デベロッパーモードをON」にします。(ONの人はそのままで大丈夫です)
-![notice](img/devmode.png)
+![notice](img/devmode.png)  
 1. 同じく左上にある「パッケージ化されていない拡張機能を読み込む」をクリックします。
-![notice](img/btn.png)
+![notice](img/btn.png)  
 1. 解凍した「glitchchecker_v1フォルダ」を指定します。
 1. 拡張一覧に以下のように表示がでればOKです。
-![notice](img/box.png)
+![notice](img/box.png)  
 
 
 ## 対応しているサービス
